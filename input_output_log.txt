@@ -1,0 +1,52 @@
+2023-11-20 21:09:56
+User Prompt: list social sustainability statements?
+Model Output:  Commitment to social justice, pursuit of excellence, collective will of people for development, high moral purpose, national solidarity, removal of poverty, ignorance and disease, high idealism, self sacrifice and dedication, balance between outlays and social and political framework, structural and policy reforms, growth with social justice, sharp focus of effectiveness, concrete programmes of action, reduce disparities in income, wealth and economic power, generate employment on a massive scale, avoid pressures on prices or balance of payments.
+
+2023-11-20 21:17:03
+User Prompt: List the social security statement?
+Model Output:  The social security statement is not mentioned in the context.
+
+2023-11-20 21:18:17
+User Prompt: what factors are affecting the poverty?
+Model Output:  Mass poverty and unemployment remain as acute as ever, double digit inflation, tax system loopholes, excessive and often indiscriminate protection provided to industry, increasing difference between the income and expenditure of the Government, and growing current account deficits in the balance of payments.
+
+2023-11-20 21:20:52
+User Prompt: How Farmers benefit from the budget?
+Model Output:  Farmers benefit from the budget through increased payments, increased procurement, increased assistance for dug wells and shallow tubewells, assistance for fresh water and brackish water aquaculture, assistance for oilseeds and pulses production, assistance for small tractors and matching implements, drip and sprinkler irrigation, and quality seeds in low yield areas.
+
+2023-11-20 21:28:11
+User Prompt: How women and poor children benefit from budget?
+Model Output:  Women benefit from the budget by receiving an increased standard deduction from Rs. 12,000 to Rs. 15,000 in the case of working women with total income up to Rs. 75,000. Poor children benefit from the budget by receiving enhanced outlay in the social sectors, such as health and family welfare, to help with population among the poor.
+
+2023-11-20 21:32:32
+User Prompt: What are poverty reduction strategies?
+Model Output:  Poverty reduction strategies involve increasing investment in irrigation, land development, and soil and moisture conservation in dry farming areas, diversifying agriculture and developing agro-based processing industries, controlling inflation and price rise, providing enhanced outlays in the social sectors, encouraging small enterprises and new entrepreneurs, and restraining urban land values and individual ownership of urban property.
+
+2023-11-20 21:34:00
+User Prompt: what are the policies implemented for rural development?
+Model Output:  The policies implemented for rural development include increasing investment in irrigation, land development, and soil and moisture conservation; diversification of agriculture and development of agro-based processing industries; deploying 50% of investible resources for the development of agriculture and rural development; adoption of an Agricultural Policy Resolution; providing debt relief and fertilizer subsidies; and construction of irrigation wells, urban night shelters, Sulabh Shauchalayas, and dwelling units for poor backward classes, scheduled castes, and scheduled tribes in the villages.
+
+2023-11-20 21:35:32
+User Prompt: what are the economic sustainability statements?
+Model Output:  The economic sustainability statements are the statements of austerity, pursuit of excellence, promotion of efficiency and productivity, discouragement of conspicuous consumption, and emphasis on the virtues of thrift for the benefit of the common people.
+
+2023-11-20 21:37:19
+User Prompt: what are the recessions and tariffs?
+Model Output:  The recessions are the reductions in the ad valorem rates of basic plus auxiliary duties of customs to a maximum of 150%, and the reduction of the basic plus auxiliary rates of import duties (inclusive of specific duties) to a maximum of 110%. The tariffs are the four duty slabs proposed for the auxiliary duty structure.
+
+2023-11-20 21:38:39
+User Prompt: What is economic conditions of state and central government?
+Model Output:  The Central Government's budgetary deficit was Rs.13,790 crores as on Ist December, 1989, wholesale prices had risen by 6.6 per cent since the beginning of the financial year, the balance of payment was under strain and foreign exchange reserves (excluding gold and SDRs) were down to around Rs.5000 crores, stocks of foodgrains had fallen to 11 million tonnes, and the Central Government was facing substantial deficits instead of the anticipated revenue surpluses. The State Governments were urged to ensure prompt payment of dues owed by the State Electricity Boards to the National Thermal Power Corporation, Coal India and the Indian Railways, and to take effective steps to improve their fiscal performance and streamline the working of their public enterprises.
+
+2023-11-20 21:40:15
+User Prompt: What are the Weather & Extreme Weather Events?
+Model Output:  The most poignant human tragedies that could take place outside a war are disturbances which burst out suddenly, more especially in the Punjab and the North-West Frontier Province. These disturbances have caused thousands of innocent lives to be lost and have resulted in mass migration on an unprecedented scale. The immediate effect of these tragic developments has been to divert the attention of the government from normal activities and to cause an almost total breakdown of the economy of the East and West Punjabs.
+
+2023-11-20 21:42:56
+User Prompt: what changes have been impplemented to reduce the poverty?
+Model Output:  Changes have been implemented to reduce poverty by increasing the allocation for anti-poverty programmes, providing more for programmes and schemes that benefit the people directly, providing an increase of 31.7% on last year's budget estimate for Agriculture and Allied Services, and revising the budget to take particular care of urgent socio-economic requirements such as the development of suitable techniques for dry farming areas, greater employment opportunities for landless labour, the adequate supply of drinking water, and the improvement of urban environment in many of our congested metropolitan areas.
+
+2023-11-20 21:44:15
+User Prompt: What is Country Balance of Payments?
+Model Output:  Country Balance of Payments is a record of all economic transactions between a country and the rest of the world over a certain period of time. It includes imports and exports of goods and services, capital flows, and transfers. It is used to measure a country's economic performance and to assess its ability to pay for imports.
+
