@@ -1,1 +1,4 @@
-# cmpe256-Hackathon
+# CMPE256-Hackathon
+ By Team Geek Squad
+
+ 
