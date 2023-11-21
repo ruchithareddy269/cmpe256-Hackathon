@@ -16,9 +16,9 @@ Please find the below list of deliverables related to this project.
 
 1. CMPE-256-Hackathon_2023.docx : This document contains the detailed explanation of the project along with the output screenshots.
    
-2. input_output_log.txt : Text Files contains the prompts and responses which automatically got stored when user enters the prompt.
+2. input_output_log.txt : Prompts and Responses are stored automatically in a text file when the user enters a prompt.
 
-3. README.md:README file contains project details.
+3. README.md: README file contains project details.
 
 4. GeekSquad_Hackathon_cmpe256.ipynb: The code for this project is in a Google Colab Python notebook.
 
